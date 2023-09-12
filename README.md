@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Passionate full-stack web developer constantly exploring and contributing to open source 🌟<br>Striving to master new tech stacks and aiming for the Google Summer of Code (GSoC) program 🚀.<br>Let's connect and build amazing software together! 💻✨</h3>
+<h3 align="center">Passionate full-stack web developer🌟<br>Striving to master new tech stacks and aiming for the Google Summer of Code (GSoC) program 🚀.<br>Let's connect and build amazing software together! 💻✨</h3>
 
 ###
 
