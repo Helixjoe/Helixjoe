@@ -11,8 +11,9 @@
 <h3 align="center">Full-stack web developer</h3>
 
 ###
-
-
+<h3 align="center">
+<a align="center" href="https://drive.google.com/file/d/1bVDC2X_lPRCHokk93Hh7-A-qT7o6A9dO/view?usp=sharing">Check out my Resume 📃</a>
+</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="63" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="63" alt="javascript logo"  />
