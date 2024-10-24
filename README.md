@@ -9,31 +9,39 @@
 
 ###
 
-<h3 align="center">Full-stack web developer</h3>
+<h3 align="center">full stack web applications and games in Unity</h3>
 
 ###
-<h3 align="center">
-<a align="center" href="https://drive.google.com/file/d/1bVDC2X_lPRCHokk93Hh7-A-qT7o6A9dO/view?usp=sharing">Check out my Resume 📃</a>
-</h3>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="63" alt="python logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="63" alt="c logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="50" width="63" />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" width="63" />   
-</div>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="63" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="63" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="63" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="63" alt="bootstrap logo"  />
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+  </a>
+</p>
     
 </div>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" width="63" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="63" alt="linux logo"  />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="63" />          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" width="63" alt="mongodb logo"  />
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,mongodb" />
+  </a>
+</p>
+</div>
+</div>
+<div align="center">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,flask,postman" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,figma,ps,pr" />
+  </a>
+</p>
 </div>
 ###
 
