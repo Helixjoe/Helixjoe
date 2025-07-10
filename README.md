@@ -39,5 +39,5 @@ development & hacking
 
 ### websites
 - [tindog](https://github.com/Helixjoe/Tindog-Website) - tinder for dogs (HTML,CSS,Bootstrap)
-- [acm-ajce](https://github.com/Helixjoe/ACM-AJCE) - landing page for ACM AJCE
+- [acm-ajce](https://github.com/Helixjoe/ACM-AJCE) - landing page for ACM AJCE (ReactJS)
 - [disney hotstar](https://github.com/Helixjoe/Disney-Hotstar-Clone) - disney hotstar clone (React + Tailwind)
