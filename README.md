@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">building full stack web applications and games in Unity</h3>
+<h3 align="center">developer/hacker</h3>
 
 ###
 
