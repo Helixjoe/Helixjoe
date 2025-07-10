@@ -3,30 +3,24 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-## about
+## interests
 
-developing & hacking
+development & hacking
 
 ## skills 
-
-### programming
 
  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c" />
   </a>
 </p>
-
-### full stack web dev
    <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,mongodb,flask" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,mongodb,flask,unity,cs" />
     </a>
   </p>
-
-### tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,figma,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,openshift,jenkins,vim,postman,figma,ps,pr," />
   </a>
 
 ## projects
