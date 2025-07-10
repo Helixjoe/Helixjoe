@@ -4,12 +4,7 @@
   
 </head>
 
-          
-<h1 align="center">👋Hi, I am Joel</h1>
-
-###
-
-<h3 align="center">developer/hacker</h3>
+<h2 align="center">developer/hacker</h3>
 
 ###
 
@@ -43,7 +38,6 @@
   </a>
 </p>
 </div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Helixjoe&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="180" alt="stats graph" /> <br>
